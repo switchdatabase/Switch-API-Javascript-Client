@@ -26,11 +26,11 @@ npm install switch_database_rest_api --save
 #### git
 #
 If the library is hosted at a git repository, e.g.
-https://github.com/YOUR_USERNAME/switch_database_rest_api
+https://github.com/switchdatabase/Switch-API-Javascript-Client
 then install it via:
 
 ```shell
-    npm install YOUR_USERNAME/switch_database_rest_api --save
+    npm install switchdatabase/Switch-API-Javascript-Client --save
 ```
 
 ### For browser
@@ -93,9 +93,3 @@ Class | Method | HTTP request | Description
  - [SwitchDatabaseRestApi.ListOrder](docs/ListOrder.md)
  - [SwitchDatabaseRestApi.SetResponse](docs/SetResponse.md)
  - [SwitchDatabaseRestApi.WhereItem](docs/WhereItem.md)
-
-
-## Documentation for Authorization
-
- All endpoints do not require authorization.
-
