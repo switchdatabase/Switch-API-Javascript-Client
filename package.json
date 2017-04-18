@@ -1,0 +1,18 @@
+{
+  "name": "switch_database_rest_api",
+  "version": "1.2.1",
+  "description": "Switch_API_is_the_primary_endpoint_of_data_sevices_and_Switch_DBs_platform__You_can_do_adding_editing_deleting_or_listing_data_works_to_your_database_with_query_operations_by_using_this_low_level_API_based_on_HTTP_",
+  "license": "Unlicense",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --recursive"
+  },
+  "dependencies": {
+    "superagent": "1.7.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.3.4",
+    "sinon": "1.17.3",
+    "expect.js": "~0.3.1"
+  }
+}
