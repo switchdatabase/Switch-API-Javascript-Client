@@ -93,3 +93,7 @@ Class | Method | HTTP request | Description
  - [SwitchDatabaseRestApi.ListOrder](docs/ListOrder.md)
  - [SwitchDatabaseRestApi.SetResponse](docs/SetResponse.md)
  - [SwitchDatabaseRestApi.WhereItem](docs/WhereItem.md)
+ 
+ ## Authors
+
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
