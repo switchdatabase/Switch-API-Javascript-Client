@@ -1,4 +1,4 @@
-# switch_database_rest_api
+# Switch Database REST API Client
 
 SwitchDatabaseRestApi - JavaScript client for switch_database_rest_api
 Switch API is the primary endpoint of data sevices and Switch DB's platform. You can do adding, editing, deleting or listing data works to your database with query operations by using this low-level API based on HTTP.
